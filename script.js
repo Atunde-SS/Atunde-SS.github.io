@@ -55,12 +55,12 @@ app.init = () => {
         let m = this;
         
         m.init = function(){
-        m.codeletters = "&#*+%?£@§$";
+        m.codeletters = "&#*+%?£3792]./`@§$";
         m.message = 0;
         m.current_length = 0;
         m.fadeBuffer = false;
         m.messages = [
-            'Afua Deborah'
+            'Atunde Suleiman Shola'
         ];
         
         setTimeout(m.animateIn, 100);
